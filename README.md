@@ -21,7 +21,7 @@ Step 4: Once you have the app up and running, you can the health of the app usin
 
 Step 5: Now, If you want to see if this app is registered as a client with the Eureka server mentioned in the 'pre-requisite' section, Please follow the instructions mentioned at  
 
-https://github.com/rajeshhereforyou/eureka-server-demo/blob/master/README.md
+https://github.com/rajeshhereforyou/eureka-server-demo
 
 If you are interested to see the eureka client  configuration, you can see the code at '/src/main/resources/application.yml' in this repo
 
