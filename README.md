@@ -1,13 +1,13 @@
-#What is this?
+# What is this?
 
 This is a simple Spring boot 2 app acting as a eureka client and registering with a sample eureka server. You can find the Eureka server code here
 
 https://github.com/rajeshhereforyou/eureka-server-demo
 
 
-##How to run this app?
+## How to run this app?
 
-###Pre-requisite
+### Pre-requisite
 
 1. Before running this app, you have to make sure that you have the a sample Eureka server is up and running. You can find the instructions on how to spin up a sample Eureka Server using spring boot 2 here
 
@@ -32,6 +32,5 @@ Here are couple of REST endpoints if you are interested to see your app details 
 
 
 http://localhost:8080/service-instances/EurekaClientDemoApplication
-
 
 http://localhost:8080/services
