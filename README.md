@@ -2,14 +2,14 @@
 
 This is a simple Spring boot 2 app acting as a eureka client and registering itself with a sample eureka server. 
 
-## How to run this app?
-
-### Pre-requisite
+## Pre-requisite
 
 1. Before running this app, you have to make sure that you have the a sample Eureka server is up and running. 
 You can find the instructions and code to build and deploy a sample Eureka server using Spring Boot 2 at 
 
 https://github.com/rajeshhereforyou/eureka-server-demo
+
+## How to clone, build and deploy this app?
 
 Step 1: Clone this repo at https://github.com/rajeshhereforyou/eureka-client-demo.git
 
