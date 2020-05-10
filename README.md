@@ -1,6 +1,7 @@
 # What is this?
 
-This is a simple Spring boot 2 app acting as a eureka client and registering with a sample eureka server. You can find the Eureka server code here
+This is a simple Spring boot 2 app acting as a eureka client and registering itself with a sample eureka server. 
+You can find the instructions and code to build and deploy a sample Eureka server code here
 
 https://github.com/rajeshhereforyou/eureka-server-demo
 
